@@ -1,5 +1,5 @@
 ## Hi there 👋
-#####  **Hi! I am Lorgio Roda. An enthusiast programmer. Web Developer with React.js and Node.js as my tech stack:**
+####  **Hi! I am Lorgio Roda. An enthusiast programmer. Web Developer with React.js and Node.js as my tech stack:**
 ------------
 
 ### About me
