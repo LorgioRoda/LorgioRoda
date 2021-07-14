@@ -1,16 +1,14 @@
-### Hi there 👋
+## ### Hi there 👋
+#####  **Hi! I am Lorgio Roda. An enthusiast programmer. Web Developer with React.js and Node.js as my tech stack:**
+------------
 
-<!--
-**LorgioRoda/LorgioRoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 🔭 I’m currently looking for job.
+- 🌱 I’m currently learning React, Redux and Next on Platzi link for check my student profile .
+- 🤔 I’m interested on MERN stack.
+- 📫 How to reach me: https://www.linkedin.com/in/lorgio-roda-roca/.
+- ⚡ Fun fact: I finished my studies for Iron Hack. I would wake up at 2 am every day during the three months I attended, because I lived in Bolivia, and the bootcamp was in Barcelona.
 
-Here are some ideas to get you started:
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorgioRoda)](https://github.com/anuraghazra/github-readme-stats)
