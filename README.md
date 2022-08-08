@@ -1,5 +1,5 @@
 ## Hi there 👋
-###  **Hi! I am Lorgio Roda. An enthusiast programmer. Web Developer with Vue.js and Node.js as my tech stack.**
+###  **Hi! I am Lorgio Roda. An enthusiast programmer. Frontend Developer.**
 ------------
 
 ### About me
@@ -9,8 +9,3 @@
 
 ------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorgioRoda&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-------------
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorgioRoda&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
