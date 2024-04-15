@@ -1,5 +1,5 @@
 ## Hi there 👋
-###  **Hi there! I am Lorgio Roda. An enthusiast programmer. Frontend Developer.** 
+###  **Hi there! I am Lorgio Roda. An enthusiast programmer.** 
 ------------
 
 ### About me
